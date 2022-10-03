@@ -1,1 +1,1 @@
-**The READMEs are mandatory in projects**
+**The README file is mandatory in projects**
